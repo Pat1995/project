@@ -6,4 +6,4 @@ b
 c
 e
 gggg
-soft
+soft1
