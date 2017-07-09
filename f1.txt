@@ -7,3 +7,4 @@ c
 e
 gggg
 soft1
+soft2
