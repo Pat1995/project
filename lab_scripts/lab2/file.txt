@@ -1,0 +1,4 @@
+
+Dziś jest ładny dzień.
+
+Zadanie 1 dotyczy operacji na pliku tj. odczyt i zapis
